@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "452752581482",
+    "firebase_url": "https://faceai.firebaseio.com",
+    "project_id": "faceai",
+    "storage_bucket": "faceai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452752581482:android:5d7bd9f24ac8c7fb",
+        "android_client_info": {
+          "package_name": "com.hexa.faceai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452752581482-jhhp3vhk9q10j9617et65i346ndo7t7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hexa.faceai",
+            "certificate_hash": "1c9f3d2a265ef4deea045ff2414d14d3bb9f7605"
+          }
+        },
+        {
+          "client_id": "452752581482-bni4t67ha7c8du2qbpasnoj81plt1d3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo3y7mK-gsJMkNzjyFjtroabX132kKi6E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452752581482-bni4t67ha7c8du2qbpasnoj81plt1d3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
